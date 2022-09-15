@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    # Use a breakpoint in the codes
+    # Use a breakpoint
     print(f'Hi, {name}')
 
 
